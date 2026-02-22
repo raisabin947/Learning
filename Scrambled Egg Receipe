@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Simple Scrambled Egg</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h1>Simple Scrambled Egg</h1>
+<p> Simple Scrambled Egg is a quick and fluffy egg dish made by lightly beating eggs and cooking them in a pan with a little oil or butter. It's easy, tasty, and perfect for  a fast breakfast.</p>
+<h2>Ingredients</h2>
+<ul>
+  <li>2 eggs</li>
+<li>Salt</li>
+<li>1 tablespoon milk (optional)</li>
+<li>1 tablespoon oil/butter</li>
+</ul>
+<h2> Instructions</h2>
+<ol>
+  <li>Beat egg with a pinch of salt.<li>Heat pan and add oil.</li>
+    <li>Pour the eggs and stir continuosly.</li>
+    <li>Cook until soft and fluffy.</li>
+    </ol>
+    <img src="https://assets.bonappetit.com/photos/57ace84d53e63daf11a4db61/1:1/w_1600,c_limit/SCRAMBLED-EGG-1-of-1.jpg" height="100dp" width="150dp" alt="Your Scrambled egg is Ready">
+  </body>
+  </html>
