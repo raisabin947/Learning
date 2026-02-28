@@ -1,0 +1,67 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Artificial Intelligence Video Compilation</title>
+</head>
+<body>
+  <main>
+
+    <h1>Artificial Intelligence Video Compilation</h1>
+
+    <p>
+      Artificial Intelligence (AI) is transforming the world rapidly. 
+      From machine learning to robotics, AI is shaping the future of technology, business, and daily life. 
+      Explore the videos below to understand how AI works and why it matters.
+    </p>
+
+    <section>
+      <h2>What is Artificial Intelligence?</h2>
+      <p>
+        This video provides a beginner-friendly explanation of what Artificial Intelligence is, 
+        how it works, and where it is used in real-world applications.
+      </p>
+      <iframe 
+        src="https://www.youtube.com/embed/2ePf9rue1Ao"
+        title="What is Artificial Intelligence"
+        width="560"
+        height="315">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>Machine Learning Explained</h2>
+      <p>
+        Learn how machine learning allows computers to learn from data 
+        and improve their performance without being explicitly programmed.
+      </p>
+      <iframe 
+        src="https://www.youtube.com/embed/ukzFI9rgwfU"
+        title="Machine Learning Explained"
+        width="560"
+        height="315">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>The Future of AI Technology</h2>
+      <p>
+        Discover how AI is expected to evolve in the coming years 
+        and how it may impact jobs, education, healthcare, and society.
+      </p>
+      <iframe 
+        src="https://www.youtube.com/embed/ad79nYk2keg"
+        title="The Future of AI Technology"
+        width="560"
+        height="315">
+      </iframe>
+    </section>
+
+  </main>
+</body>
+</html>
+
+** end of index.html **
+
